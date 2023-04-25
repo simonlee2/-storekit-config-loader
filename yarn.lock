@@ -75,7 +75,7 @@ is-fullwidth-code-point@^3.0.0:
   resolved "https://registry.yarnpkg.com/is-fullwidth-code-point/-/is-fullwidth-code-point-3.0.0.tgz#f116f8064fe90b3f7844a38997c0b75051269f1d"
   integrity sha512-zymm5+u+sCsSWyD9qNaejV3DFvhCKclKdizYaJUuHA83RLjb7nSuGnddCHGv0hk+KY7BMAlsWeK4Ueg6EV6XQg==
 
-jose@^4.11.2:
+jose@^4.14.1:
   version "4.14.1"
   resolved "https://registry.yarnpkg.com/jose/-/jose-4.14.1.tgz#74f12a621ea2ef850bf0dd8405e2ee4041aea934"
   integrity sha512-SgjXLpP7jhQkUNKL6RpowoR/IF4QKE+WjLDMpNnh2vmhiFs67NftrNpvFtgbwpvRdtueFliahYYWz9E+XZZQlg==
@@ -88,14 +88,6 @@ md5@^2.3.0:
     charenc "0.0.2"
     crypt "0.0.2"
     is-buffer "~1.1.6"
-
-node-app-store-connect-api@^5.0.2:
-  version "5.0.2"
-  resolved "https://registry.yarnpkg.com/node-app-store-connect-api/-/node-app-store-connect-api-5.0.2.tgz#d7d1c47f5b293c8005c3a04b4fa2b7c82f07c281"
-  integrity sha512-f4/psh+ddt62TrhQ4+V6NsZ1iqfBDiCJRfx+joj3ksItwp7BKIsm2zjKx+YhFuJNgUSBwTd012ZL29Pe3/7x6A==
-  dependencies:
-    jose "^4.11.2"
-    md5 "^2.3.0"
 
 require-directory@^2.1.1:
   version "2.1.1"

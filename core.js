@@ -1,4 +1,4 @@
-import { api } from 'node-app-store-connect-api';
+import { api } from './node-app-store-connect-api.js';
 import fs from 'fs';
 
 export const generator = async function Generator({ appId, issuerId, apiKey, privateKey }) {

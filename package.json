@@ -9,7 +9,8 @@
   },
   "dependencies": {
     "dotenv": "^16.0.3",
-    "node-app-store-connect-api": "^5.0.2",
+    "jose": "^4.14.1",
+    "md5": "^2.3.0",
     "yargs": "^17.7.1"
   }
 }
