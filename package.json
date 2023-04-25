@@ -1,0 +1,15 @@
+{
+  "name": "storekit-config-loader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "bin": {
+    "skconfig": "./index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "node-app-store-connect-api": "^5.0.2",
+    "yargs": "^17.7.1"
+  }
+}
